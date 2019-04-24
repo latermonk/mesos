@@ -1,10 +1,21 @@
 # mesos
 http://mesos.apache.org/
 
+
+# quick start [vagrant + virtualbox +  mesos + marathon]
+
+https://github.com/mesosphere/playa-mesos
+
+
+
 ## mesos Doc
 
 
 https://mesos.readthedocs.io/en/latest/
+
+
+
+http://mesos.apache.org/documentation/latest/
 
 ## Binaries:
 
