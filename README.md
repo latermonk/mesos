@@ -9,6 +9,8 @@ http://mesos.apache.org/
 
 https://github.com/mesosphere/playa-mesos
 
+alternative:
+https://github.com/everpeace/vagrant-mesos
 
 
 ## mesos Doc
