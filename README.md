@@ -9,7 +9,7 @@ http://mesos.apache.org/
 
 https://github.com/mesosphere/playa-mesos
 
-alternative:     
+alternative: [ vagrant + virtualbox +  mesos + marathon & Chronos & Docker]    
 https://github.com/everpeace/vagrant-mesos
 
 
