@@ -1,6 +1,21 @@
 
 ![mesos_logo](_image/mesos_logo.png)
 
+
+apache mesos  &  mesosphere dc/os
+
+
+```
+mesos is a distributed system kernel of dc/os product
+```
+
+
+```
+mesos is from berkely , and contribute to apache , then  mesosphere maintain a  commercial product called  DC/OS
+```
+
+
+
 # mesos
 http://mesos.apache.org/
 
