@@ -1,3 +1,6 @@
+
+![mesos_logo](_image/mesos_logo.png)
+
 # mesos
 http://mesos.apache.org/
 
