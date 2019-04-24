@@ -9,7 +9,7 @@ http://mesos.apache.org/
 
 https://github.com/mesosphere/playa-mesos
 
-alternative:
+alternative:     
 https://github.com/everpeace/vagrant-mesos
 
 
