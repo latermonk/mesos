@@ -16,10 +16,18 @@ https://medium.com/apache-mesos/run-mesos-locally-with-mesos-mini-docker-contain
 ![mesos04](_image/mesos04.png)
 
 
+## 环境准备 [ Docker + mesos-mini + Marathon ]
+
+
+```
+docker run --rm --privileged -p 5050:5050 -p 5051:5051 -p 8080:8080 mesos/mesos-mini
+```
+
 
 ## Create application
 
 ### 创建应用：
+####  command line
 
 ```
 curl -X POST -d @app.json -H "Content-type: application/json" http://localhost:8080/v2/apps
@@ -48,10 +56,15 @@ curl -X POST -d @app.json -H "Content-type: application/json" http://localhost:8
   ]
 }
 ```
+#### UI
 
 
 
 
 # [minimesos](https://github.com/ContainerSolutions/minimesos)
+
+https://github.com/ContainerSolutions/minimesos
+
+
 
 
