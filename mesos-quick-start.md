@@ -1,10 +1,12 @@
 # [Mesos Mini](https://hub.docker.com/r/mesos/mesos-mini/)
 
 ## Apache mesos:
+
+### Run Mesos Locally with Mesos Mini Docker Container     
+
+
 http://mesos.apache.org/blog/mesos-mini/   
 
-
-Run Mesos Locally with Mesos Mini Docker Container     
 https://medium.com/apache-mesos/run-mesos-locally-with-mesos-mini-docker-container-a87696c788f5
 
 
