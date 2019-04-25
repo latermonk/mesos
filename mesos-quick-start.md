@@ -56,14 +56,10 @@ curl -X POST -d @app.json -H "Content-type: application/json" http://localhost:8
   ]
 }
 ```
-#### UI
+#### UI way [...]
 
 
 
-
-# [minimesos](https://github.com/ContainerSolutions/minimesos)
-
-https://github.com/ContainerSolutions/minimesos
 
 
 
