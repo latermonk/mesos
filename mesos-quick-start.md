@@ -1,10 +1,10 @@
 # [Mesos Mini](https://hub.docker.com/r/mesos/mesos-mini/)
 
 ## Apache mesos:
-http://mesos.apache.org/blog/mesos-mini/
+http://mesos.apache.org/blog/mesos-mini/   
 
 
-Run Mesos Locally with Mesos Mini Docker Container
+Run Mesos Locally with Mesos Mini Docker Container     
 https://medium.com/apache-mesos/run-mesos-locally-with-mesos-mini-docker-container-a87696c788f5
 
 
@@ -23,7 +23,7 @@ https://medium.com/apache-mesos/run-mesos-locally-with-mesos-mini-docker-contain
 curl -X POST -d @app.json -H "Content-type: application/json" http://localhost:8080/v2/apps
 ```
 
-### 其中：App.json ：
+### 其中：App.json ：    
 
 ```
 {
