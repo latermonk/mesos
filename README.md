@@ -46,6 +46,10 @@ https://open.mesosphere.com/downloads/mesos
 https://mesos.apache.org/downloads/
 
 
+##  INSTALL
+https://open.mesosphere.com/downloads/mesos/#installation
+
+
 ## Ubuntu 16.04 INSTALL
 
 ###  PREPRARE
